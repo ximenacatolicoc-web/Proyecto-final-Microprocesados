@@ -1,0 +1,11 @@
+.pio/
+.vscode/.browse.vc.db*
+.vscode/ipch/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+.DS_Store
+Thumbs.db
